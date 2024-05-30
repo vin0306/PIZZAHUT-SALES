@@ -18,8 +18,9 @@ Summary: In this project, I leveraged SQL queries and Power BI visualizations to
 1. SQL: For data retrieval, manipulation, and analysis.
 2. Power BI: For visualizing data trends and patterns, creating interactive dashboards for intuitive exploration.
 
->>Results: 
-Through this project, actionable insights were gleaned, empowering stakeholders to make informed decisions. From optimizing pricing strategies to enhancing menu offerings, the findings contribute to driving business growth and customer satisfaction.
+>>Results:
+
+1.Through this project, actionable insights were gleaned, empowering stakeholders to make informed decisions. From optimizing pricing strategies to enhancing menu offerings, the findings contribute to driving business growth and customer satisfaction.
 
 I'm enthusiastic about discussing this project further and exploring opportunities for leveraging data analytics in the food industry. Feel free to reach out for more details or collaboration possibilities!
 
